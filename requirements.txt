@@ -3,3 +3,5 @@ pandas
 scikit-learn
 joblib
 dvc
+pytest
+pytest-html
